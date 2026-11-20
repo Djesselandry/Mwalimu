@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MWALIMU</string>
+    <string name="illustration_classroom">Illustration d’une salle de classe et d’un enseignant virtuel</string>
+    <string name="illustration_questions">Illustration d’un élève posant une question à son enseignant</string>
+    <string name="illustration_progress">Illustration de la progression d’apprentissage d’un élève</string>
+    <string name="illustration_profile">Illustration de profil d’élève</string>
+</resources>

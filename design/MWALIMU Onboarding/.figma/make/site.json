@@ -1,0 +1,10 @@
+{
+  "description": "An onboarding experience for students to set up MWALIMU, an offline learning app with a virtual AI teacher for personalized study anywhere.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
